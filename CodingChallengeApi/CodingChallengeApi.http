@@ -1,0 +1,6 @@
+@CodingChallengeApi_HostAddress = http://localhost:5074
+
+GET {{CodingChallengeApi_HostAddress}}/providers/
+Accept: application/json
+
+###
